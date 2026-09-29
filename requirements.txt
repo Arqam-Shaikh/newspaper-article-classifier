@@ -1,0 +1,6 @@
+torch
+scikit-learn
+pymongo
+pandas
+datasets
+joblib
